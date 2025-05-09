@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.matchMedia("(pointer: coarse)").matches;/^((?!chrome|android).)*safari/i.test(navigator.userAgent)||window.navigator.deviceMemory;document.documentElement.setAttribute("data-preloader","true"===localStorage.getItem("isSoundDisabled")?"simple":"full"),document.documentElement.classList.add("popup-opened"),e||window.lenis?.stop?.()})();
